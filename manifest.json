@@ -1,0 +1,10 @@
+{
+	"files": {
+		"README.md": "c31e49f03bf770ac22137ee89c729a1c89654456d1381d5b21062e95fcb180a2",
+		"index.js": "7c0aaf70b4576e5e40efe9173b917cc528bbdf66bdad0031a4ea82c198d2b6a5",
+		"module.json": "18169250801358f1e85de409ac1188ea1287c622ec156f712328fdd50089be94"
+	},
+	"defs": {
+		"S_SPAWN_DROPITEM": 6
+	}
+}

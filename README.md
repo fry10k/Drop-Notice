@@ -1,4 +1,4 @@
 Drop-Notice
 ======
-Item | On/Off Module (default on)
+Notice you when an Importan Item drops
 

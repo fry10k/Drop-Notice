@@ -2,11 +2,11 @@
 	"disableAutoUpdate": false,
 	"name": "Drop-Notice",
 	"options": {
-		"niceName": "物品提醒",
-		"guiName": "物品提醒"
+		"niceName": "Drop-Notice",
+		"guiName": "Drop-Notice"
 	},
 	"author": "ZC",
-	"description": "掉落物品拾取提醒",
+	"description": "Item-Drop-Notice",
 	"servers": ["https://raw.githubusercontent.com/zc149352394/Drop-Notice/master/"],
 	"supportUrl": "https://github.com/zc149352394/Drop-Notice/issues"
 }

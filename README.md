@@ -1,4 +1,4 @@
 Drop-Notice
 ======
-Notice you when an Importan Item drops
+Alerts you when an important Item drops
 
